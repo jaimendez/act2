@@ -49,7 +49,8 @@ else:
     elif avg <= 60:
         print(avg)
         print("Grade : F")
-        print("You're a Failure")      
+        print("You're a Failure")
+        
 
 
     
